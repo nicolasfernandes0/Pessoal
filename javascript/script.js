@@ -1,3 +1,4 @@
+//Programa para localizar numa lista Admins
 function getAdmins(map){
     let admins = [];
     for([key,value]of map){
